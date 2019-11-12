@@ -1,0 +1,11 @@
+console-menu==0.6.0
+gpg==1.13.1
+iterfzf==0.4.0.17.3
+Menu==3.2.2
+pimento==0.7.1
+PocketSphinx==0.8
+pycairo==1.18.2
+qprompt==0.15.3
+six==1.13.0
+SphinxBase==0.8
+tabulate==0.8.5
